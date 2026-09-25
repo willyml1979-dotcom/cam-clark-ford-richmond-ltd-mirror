@@ -1,10 +1,21 @@
 {
   "dealership": "Cam Clark Ford Richmond Ltd",
-  "generated_at": "2026-09-24T15:40:12",
-  "vehicle_count": 52,
+  "generated_at": "2026-09-25T02:14:17",
+  "vehicle_count": 62,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "2016AudiQ52.0T Technik 4dr All-Wheel Drive quattro Sport Utility",
+      "vin": "WA1W2AFP2GA128625",
+      "stock": "T28625",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/9abd7e5cafee.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2016-audi-q5-20t-technik-id15401142.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2016-audi-q5-20t-technik-id15401142.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:10:26",
+      "odometer_km": 152057,
+      "condition": "used"
+    },
     {
       "name": "2018FordF-150Lariat 4x4 SuperCrew Cab Styleside 5.5 ft. box",
       "vin": "1FTFW1E13JFD72026",
@@ -14,6 +25,17 @@
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2018-ford-f-150-lariat-id15328041.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:03:07",
       "odometer_km": 131146,
+      "condition": "used"
+    },
+    {
+      "name": "2018Mercedes-BenzS-Model AMG E 63 4dr All-Wheel Drive 4MATIC Sedan",
+      "vin": "WDDZF8KB2JA299334",
+      "stock": "C299334",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/006119054c15.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2018-mercedes-benz-amg-e-63-s-model-id15402277.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2018-mercedes-benz-amg-e-63-s-model-id15402277.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:10:36",
+      "odometer_km": 28975,
       "condition": "used"
     },
     {
@@ -36,6 +58,17 @@
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2019-bmw-x1-xdrive28i-id15334603.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:03:28",
       "odometer_km": 71936,
+      "condition": "used"
+    },
+    {
+      "name": "2019FordF-350XLT 4x4 SD Crew Cab 6.75 ft. box SRW",
+      "vin": "1FT8W3BT2KEG27427",
+      "stock": "T27427",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/edfe55e01f0c.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2019-ford-f-350-xlt-id15396757.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2019-ford-f-350-xlt-id15396757.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:10:45",
+      "odometer_km": 88360,
       "condition": "used"
     },
     {
@@ -89,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0ea5326b2438.html",
       "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2021-volkswagen-tiguan-highline-id15401143.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2021-volkswagen-tiguan-highline-id15401143.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T00:04:13",
+      "last_verified": "2026-09-25T02:13:09",
       "odometer_km": 83000,
       "condition": "used"
     },
@@ -100,19 +133,19 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/228454bfddf0.html",
       "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-bmw-x3-xdrive30i-id15393942.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-bmw-x3-xdrive30i-id15393942.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T00:04:21",
+      "last_verified": "2026-09-25T02:13:17",
       "odometer_km": 68400,
       "condition": "used"
     },
     {
-      "name": "2022FordExplorerXLT 4dr 4x4",
-      "vin": "1FMSK8DH0NGB54820",
-      "stock": "AT54820",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/26c00777e693.html",
-      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-ford-explorer-xlt-id15116102.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-ford-explorer-xlt-id15116102.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T00:04:29",
-      "odometer_km": 64636,
+      "name": "2022FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTVW1ELXNWG13552",
+      "stock": "T13552",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/97f5d2faafd7.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-ford-f-150-lightning-lariat-id15290921.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-ford-f-150-lightning-lariat-id15290921.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:10:55",
+      "odometer_km": 41995,
       "condition": "used"
     },
     {
@@ -171,6 +204,17 @@
       "condition": "used"
     },
     {
+      "name": "2022Mercedes-BenzAMG E 53 4dr 4MATIC+ Sedan",
+      "vin": "W1KZF6BB5NB087516",
+      "stock": "C087516",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/5ac52936a77c.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-mercedes-benz-amg-e-53-base-id15358621.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2022-mercedes-benz-amg-e-53-base-id15358621.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:06",
+      "odometer_km": 43484,
+      "condition": "used"
+    },
+    {
       "name": "2022RAM1500Limited 4x4 Crew Cab",
       "vin": "1C6SRFHM3NN382003",
       "stock": "AT82003",
@@ -193,6 +237,28 @@
       "condition": "used"
     },
     {
+      "name": "2023FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTVW1EL7PWG15505",
+      "stock": "X15505",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/83d4894ca3a6.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-150-lightning-lariat-id15318336.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-150-lightning-lariat-id15318336.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:14",
+      "odometer_km": 58966,
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTVW1EL2PWG12558",
+      "stock": "X12558",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/3d714115e66a.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-150-lightning-lariat-id15405074.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-150-lightning-lariat-id15405074.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:23",
+      "odometer_km": 59587,
+      "condition": "used"
+    },
+    {
       "name": "2023FordF-150XL 4x4 SuperCrew Cab 5.5 ft. box",
       "vin": "1FTFW1E85PKD74616",
       "stock": "AT74616",
@@ -201,6 +267,17 @@
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-150-xl-id15302394.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:05:36",
       "odometer_km": 94220,
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-350Platinum 4x4 SD Crew Cab 6.75 ft. box SRW",
+      "vin": "1FT8W3BM2PED78594",
+      "stock": "X78594",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/72e120e82a17.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-350-platinum-id15411260.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-ford-f-350-platinum-id15411260.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:32",
+      "odometer_km": 38000,
       "condition": "used"
     },
     {
@@ -223,6 +300,17 @@
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2023-subaru-ascent-id15370664.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:05:53",
       "odometer_km": 107803,
+      "condition": "used"
+    },
+    {
+      "name": "2024FordF-150 LightningXLT All-Wheel Drive SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTVW3LK2RWG16053",
+      "stock": "X16053",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/009a19d4a27b.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2024-ford-f-150-lightning-xlt-id15342756.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2024-ford-f-150-lightning-xlt-id15342756.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:42",
+      "odometer_km": 27721,
       "condition": "used"
     },
     {
@@ -278,6 +366,28 @@
       "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2024-mitsubishi-rvr-es-id15303398.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:06:38",
       "odometer_km": 23401,
+      "condition": "used"
+    },
+    {
+      "name": "2024ToyotaTundra HybridLimited 4dr 4x4 CrewMax 5.5 ft. box",
+      "vin": "5TFPC5DB1RX077723",
+      "stock": "T77723",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/055237856523.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2024-toyota-tundra-hybrid-limited-id15402278.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2024-toyota-tundra-hybrid-limited-id15402278.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:50",
+      "odometer_km": 31776,
+      "condition": "used"
+    },
+    {
+      "name": "2025FordRangerRaptor 4x4 SuperCrew 5 ft. box",
+      "vin": "1FTER4LR5SLE20481",
+      "stock": "X20481",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/a5c0af79d09e.html",
+      "source_url": "https://www.camclarkfordrichmond.com/used/vehicle/2025-ford-ranger-raptor-id15390436.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/used/vehicle/2025-ford-ranger-raptor-id15390436.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T02:11:58",
+      "odometer_km": 13101,
       "condition": "used"
     },
     {
