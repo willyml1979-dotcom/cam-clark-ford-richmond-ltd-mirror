@@ -1,7 +1,7 @@
 {
   "dealership": "Cam Clark Ford Richmond Ltd",
-  "generated_at": "2026-10-11T00:29:43",
-  "vehicle_count": 395,
+  "generated_at": "2026-10-11T00:38:21",
+  "vehicle_count": 396,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -600,7 +600,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/6e2b42b396c6.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-f-150-xlt-id13295093.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-f-150-xlt-id13295093.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:30:29",
+      "last_verified": "2026-10-11T00:36:31",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -613,7 +613,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/942468dc32c9.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663465.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663465.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:30:39",
+      "last_verified": "2026-10-11T00:36:41",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -626,7 +626,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/7087288b6871.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663466.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663466.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:30:49",
+      "last_verified": "2026-10-11T00:36:49",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -639,7 +639,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/cfad51ec12f8.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2025-ford-f-150-lariat-id14224850.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2025-ford-f-150-lariat-id14224850.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:31:15",
+      "last_verified": "2026-10-11T00:36:57",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -665,7 +665,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/e3dd932db797.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id14934271.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id14934271.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:31:32",
+      "last_verified": "2026-10-11T00:37:15",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -673,12 +673,12 @@
     {
       "name": "2026FORDBRONCOBADLANDS 4DR 4X4 (334A)",
       "vin": "1FMEE9BP2TLA60608",
-      "stock": "E9B6060",
+      "stock": "2026",
       "color": "Sand",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/bacda2d7d71e.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id14969502.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id14969502.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:31:40",
+      "last_verified": "2026-10-11T00:37:25",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -691,7 +691,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/0771880dd15e.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15014986.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15014986.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:31:50",
+      "last_verified": "2026-10-11T00:37:33",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -699,12 +699,12 @@
     {
       "name": "2026FORDBRONCOBADLANDS 4DR 4X4 (334A)",
       "vin": "1FMEE9BP4TLA60710",
-      "stock": "E9B6071",
+      "stock": "2026",
       "color": "Grey",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/791451b38a54.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15038076.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15038076.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:31:59",
+      "last_verified": "2026-10-11T00:37:42",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -717,7 +717,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/94096399da3f.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15055349.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15055349.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:32:09",
+      "last_verified": "2026-10-11T00:37:50",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -725,12 +725,12 @@
     {
       "name": "2026FORDBRONCOBADLANDS 4DR 4X4 (334A)",
       "vin": "1FMEE9BP9TLA86574",
-      "stock": "E9B8657",
+      "stock": "2026",
       "color": "Grey",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/17c2dfeb9b92.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15119199.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-badlands-id15119199.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:32:19",
+      "last_verified": "2026-10-11T00:37:59",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -743,7 +743,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/5b7784bf40b6.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-base-id15203989.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-base-id15203989.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:32:28",
+      "last_verified": "2026-10-11T00:38:09",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -756,7 +756,7 @@
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/085dad301bb0.html",
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-base-id15326147.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-base-id15326147.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:32:36",
+      "last_verified": "2026-10-11T00:38:16",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -926,19 +926,6 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15293804.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15293804.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T00:08:52",
-      "condition": "new",
-      "city": "Richmond",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
-      "vin": "3FMCR9BN5TRF12739",
-      "stock": "R9B1273",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/2a999c3f925f.html",
-      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15405925.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15405925.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T00:09:09",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -1311,19 +1298,6 @@
     },
     {
       "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
-      "vin": "1FTFW5LD6TFB45856",
-      "stock": "26F5856",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/bf0cd0cd2076.html",
-      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-lariat-id15237457.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-lariat-id15237457.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:38:28",
-      "condition": "new",
-      "city": "Richmond",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
       "vin": "1FTFW5LD5TFB39546",
       "stock": "26F9546",
       "color": "Silver",
@@ -1596,6 +1570,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW5L86TFB67679",
+      "stock": "26F7679",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/4752b3d65c4c.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-lariat-id15440492.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-lariat-id15440492.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:35:17",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
       "vin": "1FTFW7L80TFA87841",
       "stock": "26F7841",
@@ -1656,6 +1643,19 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-platinum-id15412901.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-platinum-id15412901.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:35:26",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW7LD4TFB45799",
+      "stock": "26F5799",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/b29735451d05.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-platinum-id15443577.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-platinum-id15443577.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:35:28",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -1955,19 +1955,6 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-raptor-id15420456.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-raptor-id15420456.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:36:01",
-      "condition": "new",
-      "city": "Richmond",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX",
-      "vin": "1FTFW1RJ7TFB76684",
-      "stock": "26F6684",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/162cabea7bb2.html",
-      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-raptor-id15424488.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-raptor-id15424488.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T20:36:10",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -2320,6 +2307,21 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xl-id15429559.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xl-id15429559.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:36:36",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDF-150XL 4X4 SUPERCAB 6.5 FT. BOX (101A)",
+      "vin": "1FTEX1LP6TKF11785",
+      "stock": "X1L1178",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/f14cd91da6de.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xl-id15439821.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xl-id15439821.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:35:36",
+      "price": 64820.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -2846,19 +2848,6 @@
     },
     {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
-      "vin": "1FTFW3L8XTKE26993",
-      "stock": "26F6993",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/bc927dce4438.html",
-      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15183070.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15183070.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T02:55:34",
-      "condition": "new",
-      "city": "Richmond",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
       "vin": "1FTFW3L82TKE24395",
       "stock": "26F4395",
       "color": "Grey",
@@ -3300,6 +3289,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L53TKE54690",
+      "stock": "26F4690",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/d26dfd2204a7.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15378919.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-f-150-xlt-id15378919.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:35:44",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3LD1TFC11010",
       "stock": "W3L1101",
@@ -3659,6 +3661,19 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-maverick-xlt-id15438205.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-maverick-xlt-id15438205.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:37:42",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "vin": "3FTTW8J38TRB27912",
+      "stock": "W8J2791",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/060fee812d10.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-maverick-xlt-id15443516.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-maverick-xlt-id15443516.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:35:54",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -4900,19 +4915,6 @@
       "province": "BC"
     },
     {
-      "name": "2026FORDTRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN",
-      "vin": "1FTBW9CG9TKA76507",
-      "stock": "W9C7650",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/f480de4b1f87.html",
-      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-transit-350-cargo-base-id15122240.htm",
-      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2026-ford-transit-350-cargo-base-id15122240.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T03:21:08",
-      "condition": "new",
-      "city": "Richmond",
-      "province": "BC"
-    },
-    {
       "name": "2027FORDE-450 CUTAWAYSD CHASSIS DRW",
       "vin": "1FDXE4FN8VDD24464",
       "stock": "E4F2446",
@@ -5168,6 +5170,19 @@
       "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2027-ford-transit-350-cargo-base-id15432904.htm",
       "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2027-ford-transit-350-cargo-base-id15432904.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T20:39:49",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2027FORDTRANSIT-350 CARGO",
+      "vin": "1FTBW1Y88VKA35324",
+      "stock": "W1Y3532",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/18fff85a0ac7.html",
+      "source_url": "https://www.camclarkfordrichmond.com/new/vehicle/2027-ford-transit-350-cargo-base-id15439820.htm",
+      "dealer_url": "https://www.camclarkfordrichmond.com/new/vehicle/2027-ford-transit-350-cargo-base-id15439820.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:36:04",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
