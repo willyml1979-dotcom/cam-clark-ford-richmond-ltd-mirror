@@ -1,44 +1,14 @@
 {
   "dealership": "Cam Clark Ford Richmond Ltd",
-  "generated_at": "2026-10-25T20:54:30",
-  "vehicle_count": 404,
+  "generated_at": "2026-11-16T18:50:19",
+  "vehicle_count": 394,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2012FordMustang",
-      "vin": "1ZVBP8AM6C5217531",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/a6ad197dd22b.html",
-      "condition": "used"
-    },
-    {
-      "name": "2014FordMustangV6 Premium 2dr Coupe",
-      "vin": "1ZVBP8AM1E5238791",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/8fed3cfef203.html",
-      "condition": "used"
-    },
-    {
       "name": "2018BMWM42dr Rear-Wheel Drive Coupe",
       "vin": "WBS4Y9C55JAC86330",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/5191b033e4ec.html",
-      "condition": "used"
-    },
-    {
-      "name": "2018RAMProMaster CityST Cargo Van",
-      "vin": "ZFBERFCB4J6K17631",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/3b4c575132ac.html",
-      "condition": "used"
-    },
-    {
-      "name": "2018VolkswagenTiguanComfortline 4dr All-Wheel Drive 4MOTION",
-      "vin": "3VV2B7AX7JM187826",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/c8274f992443.html",
-      "condition": "used"
-    },
-    {
-      "name": "2019HondaCivicLX (CVT) 4dr Sedan",
-      "vin": "2HGFC2F51KH000315",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0be1c6e05acf.html",
       "condition": "used"
     },
     {
@@ -60,12 +30,6 @@
       "condition": "used"
     },
     {
-      "name": "2021HARLEY DAVIDSONUNKNOWN",
-      "vin": "5HD1LC331MB409998",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/9489e546dda5.html",
-      "condition": "used"
-    },
-    {
       "name": "2021VolkswagenTiguanHighline 4dr All-Wheel Drive 4MOTION",
       "vin": "3VV4B7AX1MM143950",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0ea5326b2438.html",
@@ -75,6 +39,24 @@
       "name": "2022BMWX3xDrive30i 4dr All-Wheel Drive Sports Activity Vehicle",
       "vin": "5UX53DP09N9L98031",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/228454bfddf0.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordExpedition MaxLimited 4dr 4x4",
+      "vin": "1FMJK2AT6NEA38910",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0f20a7925f19.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordF-150Lariat 4x4 SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTFW1E85NFC43739",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/d25a266c3506.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordF-150Limited 4x4 SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTFW1ED9NFB44113",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0374576faa5d.html",
       "condition": "used"
     },
     {
@@ -90,21 +72,21 @@
       "condition": "used"
     },
     {
-      "name": "2022FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
+      "name": "2022FordF-150XLT 4x4 SuperCrew Cab 6.5 ft. box",
       "vin": "1FTFW1E84NFB28324",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/e34a313c8cde.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordMustang Mach-EGT Performance Edition 4dr All-Wheel Drive",
+      "vin": "3FMTK4SX9NMA52736",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/b9fd80af8acf.html",
       "condition": "used"
     },
     {
       "name": "2022GMCSierra 2500HDSLE",
       "vin": "1GT58ME71NF243607",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/65af1a27424b.html",
-      "condition": "used"
-    },
-    {
-      "name": "2022Mercedes-BenzAMG E 53 4dr 4MATIC+ Sedan",
-      "vin": "W1KZF6BB5NB087516",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/5ac52936a77c.html",
       "condition": "used"
     },
     {
@@ -126,45 +108,27 @@
       "condition": "used"
     },
     {
+      "name": "2023FordBroncoBig Bend 2dr 4x4",
+      "vin": "1FMDE5AH1PLB12654",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/60953fef8ade.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023FordF-150Lariat 4x4 SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTFW1ED7PFB92180",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/397608dbaa3a.html",
+      "condition": "used"
+    },
+    {
       "name": "2023FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
       "vin": "1FTVW1EL7PWG15505",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/83d4894ca3a6.html",
       "condition": "used"
     },
     {
-      "name": "2023FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
-      "vin": "1FTVW1EL2PWG12558",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/3d714115e66a.html",
-      "condition": "used"
-    },
-    {
       "name": "2023FordF-150XL 4x4 SuperCrew Cab 5.5 ft. box",
       "vin": "1FTFW1E85PKD74616",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/c2f7aee77102.html",
-      "condition": "used"
-    },
-    {
-      "name": "2023FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
-      "vin": "1FTFW1ED2PFB07018",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/b5d55efea2ad.html",
-      "condition": "used"
-    },
-    {
-      "name": "2023FordF-150XLT 4x4 SuperCrew Cab 6.5 ft. box",
-      "vin": "1FTFW1E52PFC62208",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/3a0320ae99f8.html",
-      "condition": "used"
-    },
-    {
-      "name": "2023JeepGladiatorRubicon 4dr 4x4 Crew Cab 5 ft. box",
-      "vin": "1C6JJTBG6PL551613",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/45f8c0bfd4f5.html",
-      "condition": "used"
-    },
-    {
-      "name": "2023SubaruAscent",
-      "vin": "4S4WMAWD8P3400620",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/f57ccc207f78.html",
       "condition": "used"
     },
     {
@@ -180,15 +144,9 @@
       "condition": "used"
     },
     {
-      "name": "2024FordEscapePHEV 4dr Front-Wheel Drive",
-      "vin": "1FMCU0E16RUA30222",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/7ed48b87eb9d.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
-      "vin": "1FTFW3L87RFA39030",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/88f789c45284.html",
+      "name": "2024CadillacEscaladeLuxury 4dr 4x4",
+      "vin": "1GYS4AKL1RR124257",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/73e9b63c6c92.html",
       "condition": "used"
     },
     {
@@ -198,15 +156,21 @@
       "condition": "used"
     },
     {
-      "name": "2024ToyotaTundra HybridLimited 4dr 4x4 CrewMax 5.5 ft. box",
-      "vin": "5TFPC5DB1RX077723",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/055237856523.html",
+      "name": "2025FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
+      "vin": "1FTEW3LP6SKE05771",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/f862f4ea23e4.html",
       "condition": "used"
     },
     {
-      "name": "2025FordRangerRaptor 4x4 SuperCrew 5 ft. box",
-      "vin": "1FTER4LR5SLE20481",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/a5c0af79d09e.html",
+      "name": "2025FordMaverickLariat All-Wheel Drive SuperCrew 4.5 ft. box",
+      "vin": "3FTTW8S31SRA55612",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/50692eace7ed.html",
+      "condition": "used"
+    },
+    {
+      "name": "2025SubaruOutbackTouring 4dr All-Wheel Drive",
+      "vin": "4S4BTDEC5S3143209",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/1cf3d3e187cf.html",
       "condition": "used"
     },
     {
@@ -216,9 +180,9 @@
       "condition": "used"
     },
     {
-      "name": "2018VolkswagenTiguanComfortline 4dr All-Wheel Drive 4MOTION",
-      "vin": "3VV2B7AX7JM187826",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/796c91b8075d.html",
+      "name": "2026FordExpeditionPlatinum 4dr 4x4",
+      "vin": "1FMJU1M86TEA29536",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/405e0b93a60c.html",
       "condition": "used"
     },
     {
@@ -234,39 +198,15 @@
       "condition": "used"
     },
     {
-      "name": "2022Mercedes-BenzAMG E 53 4dr 4MATIC+ Sedan",
-      "vin": "W1KZF6BB5NB087516",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/ef108132db54.html",
-      "condition": "used"
-    },
-    {
       "name": "2023FordF-150 LightningLariat All-Wheel Drive SuperCrew Cab 5.5 ft. box",
       "vin": "1FTVW1EL7PWG15505",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/38bc28e71693.html",
       "condition": "used"
     },
     {
-      "name": "2023JeepGladiatorRubicon 4dr 4x4 Crew Cab 5 ft. box",
-      "vin": "1C6JJTBG6PL551613",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/7c4c19b96029.html",
-      "condition": "used"
-    },
-    {
       "name": "2023SubaruOutbackTouring 4dr All-Wheel Drive",
       "vin": "4S4BTDEC6P3158292",
       "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/c453ebf40a72.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
-      "vin": "1FTFW3L87RFA39030",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0533bb679514.html",
-      "condition": "used"
-    },
-    {
-      "name": "2024ToyotaTundra HybridLimited 4dr 4x4 CrewMax 5.5 ft. box",
-      "vin": "5TFPC5DB1RX077723",
-      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/af73a6f57623.html",
       "condition": "used"
     },
     {
