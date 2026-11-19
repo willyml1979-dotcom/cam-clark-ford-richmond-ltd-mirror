@@ -1,10 +1,82 @@
 {
   "dealership": "Cam Clark Ford Richmond Ltd",
-  "generated_at": "2026-11-16T18:50:19",
-  "vehicle_count": 394,
+  "generated_at": "2026-11-18T18:53:41",
+  "vehicle_count": 406,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2020FordEscapeSE",
+      "vin": "1FMCU9G64LUB51965",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/2a03c41184bc.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020FordF-150XLT",
+      "vin": "1FTFW1E53LKE52889",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/867b8b5909f0.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021FordF-150XLT",
+      "vin": "1FTEW1EP4MKD38821",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/45809ca0976f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021VolkswagenTiguanHighline",
+      "vin": "3VV4B7AX1MM143950",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/5ec5e365e580.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022BMWX3xDrive30i",
+      "vin": "5UX53DP09N9L98031",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/e9af97b85185.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordF-150XLT",
+      "vin": "1FTEW1EP8NFB21489",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/f2eedc838430.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022GMCSierra 2500HDSLE",
+      "vin": "1GT58ME71NF243607",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/3b176e834145.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordBroncoBig Bend",
+      "vin": "1FMDE5AH1PLB12654",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/51117e6bbb31.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023SubaruOutbackTouring",
+      "vin": "4S4BTDEC6P3158292",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/b48356c80e4d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023VolkswagenJetta GLI",
+      "vin": "3VW1T7BU6PM041015",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/0ffb39491b89.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024MazdaCX-502.5 TURBO PREMIUM",
+      "vin": "7MMVABDY3RN226337",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/d91e99ee9ffb.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025SubaruOutbackTouring",
+      "vin": "4S4BTDEC5S3143209",
+      "url": "https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/ce6f819a02a2.html",
+      "condition": "used"
+    },
     {
       "name": "2018BMWM42dr Rear-Wheel Drive Coupe",
       "vin": "WBS4Y9C55JAC86330",

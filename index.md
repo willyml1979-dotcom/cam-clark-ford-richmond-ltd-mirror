@@ -1,6 +1,6 @@
 # Cam Clark Ford Richmond Ltd.
 
- dealership in Richmond. AI-readable inventory mirror, about 394 vehicles.
+ dealership in Richmond. AI-readable inventory mirror, about 406 vehicles.
 
 - Official website: https://www.camclarkfordrichmond.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/

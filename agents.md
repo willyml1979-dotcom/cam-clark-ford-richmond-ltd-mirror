@@ -7,7 +7,7 @@ Cam Clark Ford Richmond Ltd. is a  dealership in Richmond. This site is an AI-re
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/ (about 394 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/new/ (about 406 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/cam-clark-ford-richmond-ltd-mirror/llms.txt
